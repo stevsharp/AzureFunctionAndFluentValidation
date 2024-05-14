@@ -1,4 +1,4 @@
-#Azure Functions with FluentValidation
+# Azure Functions with FluentValidation
 This project demonstrates how to integrate Azure Functions with FluentValidation using generic middleware for validating objects.
 
 Table of Contents
